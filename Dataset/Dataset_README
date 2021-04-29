@@ -1,6 +1,6 @@
 #ReadMe for the metabolome data files
 
-These data were published previously in Vanessa A. Garayburu-Caruso, et al, "Using Community Science to Reveal the Global Chemogeography of River Metabolomes", Metabolites (2020). https://doi.org/10.3390/metabo10120518 
+These data were published previously in Garayburu-Caruso, et al, "Using Community Science to Reveal the Global Chemogeography of River Metabolomes", Metabolites (2020). https://doi.org/10.3390/metabo10120518 
 
 'Processed_S19S_Sed-Water_08.12_Data.csv' and 'Processed_S19S_Sed-Water_08.12_Mol.csv' are files
 obtained by using the R package ftmsRanalysis (https://github.com/EMSL-Computing/ftmsRanalysis)
