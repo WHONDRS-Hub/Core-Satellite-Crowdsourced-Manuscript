@@ -1,0 +1,25 @@
+readme_WHONDRS_FTICR_data
+
+Surface water and sediment data from 97 global river corridors were part of a WHONDRS (https://whondrs.pnnl.gov) study. The raw, unprocessed FTICR-MS data and additional data collected from each site can be found at doi:10.15485/1729719, for sediments and doi:10.15485/1603775, for water. This data package contains the processed data used in the associated manuscript, however, the scripts folder contains all the R scripts used to generate the processed data starting from the raw files. More information on specific inputs and outputs can be found below: 
+
+### 1_Formularity_Log_Processing_27Feb2020.R_input
+	Processing_log.txt 
+	This txt file is the output from Formulariry, instructions on how to run this program can be found in the WHONDRS data packages referenced above (27Feb2020_FTICR_Instructions_WHONDRS.pdf). It is important to note that if analyzed together, the raw data from sediment and water should be run together through Formularity.
+                                                               
+### 1_Formularity_Log_Processing_27Feb2020.R_output and 2_FTMS_Analysis.R and 3_Removing_poorly_calibrated_samples.R input
+	S19S_Water_Field_Sediments_All_Calibrations.csv                                   
+	S19S_Water_Field_Sediments_Poorly_Calibrated_Samples.csv                          
+	S19S_Water_Field_Sediments_Report.csv    
+                                        
+### 2_FTMS_Analysis.R_output and 3_Removing_poorly_calibrated_samples.R input
+	Processed_S19S_Water_Field_Sediments_Data.csv                                            
+	Processed_S19S_Water_Field_Sediments_Mol.csv                                             
+	S19S_Water_Field_Sediments_Compound_Class_Summary.csv                                    
+	S19S_Water_Field_Sediments_MolInfo_Summary.csv  
+                                         
+### 3_Removing_poorly_calibrated_samples.R output and 4_getLambda.R input
+	Processed_Clean_S19S_Water_Field_sediments_2-2_Data.csv
+	Processed_Clean_S19S_Water_Field_sediments_2-2_Mol.csv 
+
+### 4_getlambda.R output
+	S19S_lambda_output.csv                                                              
