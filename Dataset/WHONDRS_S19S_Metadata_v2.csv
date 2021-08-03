@@ -1,0 +1,99 @@
+Study_Code,Sample_ID,Date,Stream_Name,City,State_or_Province,Country,US_Latitude_dec.deg,US_Longitude_dec.deg
+WHONDRS_S19S,Sample ID,Sampling date,Stream name,Sampling location: City,Sampling location: State/Province,Sampling location: Country,Latitude of upstream site (decimal degrees),Longitude of upstream site (decimal degrees)
+WHONDRS_S19S,S19S_0001,19-Sep-19,Fraser,Hope,British Columbia,Canada,49.38639,-121.45063
+WHONDRS_S19S,S19S_0003,8-Sep-19,Thompson ,Kamloops,British Columbia,Canada,50.6887,-120.36646
+WHONDRS_S19S,S19S_0004,8-Sep-19,South Thompson,Chase,British Columbia,Canada,50.7753,-119.72159
+WHONDRS_S19S,S19S_0005,6-Aug-19,Assiniboine,Winnipeg,Manitoba,Canada,49.8688,-97.40836
+WHONDRS_S19S,S19S_0006,29-Jul-19,Dead Run,Baltimore,Maryland,USA,39.311813,-76.717476
+WHONDRS_S19S,S19S_0007,29-Jul-19,Providence Creek / KREW's P304 creek,Shaver Lake ,California,USA,37.05229,-119.195359
+WHONDRS_S19S,S19S_0008,29-Jul-19,Teakettle T003 stream,Shaver Lake,California,USA,36.961273,-119.028254
+WHONDRS_S19S,S19S_0009,30-Jul-19,Little Wind River,Riverton,Wyoming,USA,42.9875,-108.3982
+WHONDRS_S19S,S19S_0010,31-Jul-19,Altamaha,Doctortown,Georgia,USA,31.667905,-81.8403
+WHONDRS_S19S,S19S_0011,5-Aug-19,Middle Oconee,Athens,Georgia,USA,33.95569,-83.437673
+WHONDRS_S19S,S19S_0012,13-Aug-19,Hop Brook,New Salem,Massachusetts,USA,42.47178,-72.33105
+WHONDRS_S19S,S19S_0013,19-Aug-19,Posey Creek,Front Royal,Virginia,USA,38.8944,-78.1474
+WHONDRS_S19S,S19S_0014,19-Aug-19,Lewis Run,Berryville,Virginia,USA,39.0944,-77.9815
+WHONDRS_S19S,S19S_0015,5-Aug-19,Flint River,Newton,Georgia,USA,31.185895,-84.437254
+WHONDRS_S19S,S19S_0016,12-Aug-19,King's Creek,Manhattan,Kansas,USA,39.10415,-96.60276
+WHONDRS_S19S,S19S_0017,26-Aug-19,McDiffett Creek,Manhattan,Kansas,USA,38.94684,-96.44389
+WHONDRS_S19S,S19S_0018,5-Aug-19,LeConte Creek,Gatlinburg,Tennessee,USA,35.6918387,-83.5041467
+WHONDRS_S19S,S19S_0019,19-May-19,Walker Branch,Oak Ridge,Tennessee,USA,35.9572803,-84.2786976
+WHONDRS_S19S,S19S_0020,19-Aug-19,Tombigbee River,Toxey AL,Alabama,USA,31.8531,-88.15748
+WHONDRS_S19S,S19S_0021,20-Aug-19,Black Warrior,Demopolis,Alabama,USA,32.54108,-87.79821
+WHONDRS_S19S,S19S_0022,5-Aug-19,Mayfield Creek,Moundville,Alabama,USA,32.96142,-87.40828
+WHONDRS_S19S,S19S_0023,6-Aug-19,Arikaree River,Idalia,Colorado,USA,39.75854,-102.44917
+WHONDRS_S19S,S19S_0024,18-Aug-19,Blue River,Connerville,Oklahoma,USA,34.44251,-96.62259
+WHONDRS_S19S,S19S_0025,6-Aug-19,Pringle Creek,Alvord,Texas,USA,33.37834,-97.78338
+WHONDRS_S19S,S19S_0026,5-Aug-19,Como Creek,Nederland,Colorado,USA,40.03497,-105.54393
+WHONDRS_S19S,S19S_0027,13-Aug-19,West St. Louis Creek,Fraser,Colorado,USA,39.89071,-105.91164
+WHONDRS_S19S,S19S_0028,6-Aug-19,Sycamore Creek,Mesa,Arizona,USA,33.750837,-111.508141
+WHONDRS_S19S,S19S_0029,5-Aug-19,Red Butte Creek,Salt Lake City,Utah,USA,40.78464,-111.79547
+WHONDRS_S19S,S19S_0030,13-Aug-19,Martha Creek,Stabler,Washington,USA,45.792233,-121.929928
+WHONDRS_S19S,S19S_0031,19-Aug-19,McRae Creek,Blue River,Oregon,USA,44.2605576,-122.1642723
+WHONDRS_S19S,S19S_0032,26-Aug-19,Teakettle 2 Creek,Sierra National Forest ,California,USA,36.95497,-119.02375
+WHONDRS_S19S,S19S_0033,12-Aug-19,Big Creek ,Auberry,California ,USA,37.0581,-119.256
+WHONDRS_S19S,S19S_0034,5-Aug-19,La Jara,Los Alamos,New Mexico,USA,35.868,-106.5233
+WHONDRS_S19S,S19S_0035,12-Aug-19,Marshall Gulch,Summerhaven,Arizona,USA,32.327329,-110.759543
+WHONDRS_S19S,S19S_0036,5-Aug-19,Columbia,Richland,Washington,USA,46.372753,-119.271963
+WHONDRS_S19S,S19S_0037,12-Aug-19,White Clay Creek,Avondale,Pennsylvania,USA,39.8579143,-75.7831181
+WHONDRS_S19S,S19S_0038,12-Aug-19,White Clay Creek,Avondale,Pennsylvania,USA,39.8595761,-75.784143
+WHONDRS_S19S,S19S_0039,5-Aug-19,East Fork Poplar Creek,Oak Ridge,Tennessee,USA,35.966243,-84.357361
+WHONDRS_S19S,S19S_0040,5-Aug-19,Kings Creek (N04D),Manhattan,Kansas,USA,39.08766,-96.58479
+WHONDRS_S19S,S19S_0041,5-Aug-19,Crooked River,Prineville,Oregon,USA,44.300082,-120.85829
+WHONDRS_S19S,S19S_0042,5-Aug-19,Shark River Slough,Flamingo,Florida,USA,25.40982,-80.96423
+WHONDRS_S19S,S19S_0043,5-Aug-19,Dorn Creek,Middleton,Wisconsin,USA,43.145025,-89.472134
+WHONDRS_S19S,S19S_0044,6-Aug-19,Huger Creek,Cordesville,South Carolina,USA,33.130796,-79.810168
+WHONDRS_S19S,S19S_0045,5-Aug-19,Erpe River sidechannel,Berlin-Heidemühle,Brandenburg,Germany,52.476254,13.625944
+WHONDRS_S19S,S19S_0046,27-Aug-19,Nigardsbreen River,Nigardsbreen,Not_Provided,Norway,61.6754,7.21196
+WHONDRS_S19S,S19S_0047,13-Aug-19,Kuparuk River,Toolik Field Station,Alaska,USA,68.6427,-149.40346
+WHONDRS_S19S,S19S_0048,12-Aug-19,Rio Cupeyes,Sabana Grande ,Puerto Rico,USA,18.11029,-66.98655
+WHONDRS_S19S,S19S_0049,13-Aug-19,Rio Guilarte,Adjuntas,Puerto Rico,USA,18.17413,-66.79967
+WHONDRS_S19S,S19S_0050,13-Aug-19,Oksrukuyik Creek,North Slope Borough,Alaska,USA,68.62722,-149.5972
+WHONDRS_S19S,S19S_0051,14-Aug-19,Caribou Creek,Fairbanks,Alaska,USA,64.85568,-147.80559
+WHONDRS_S19S,S19S_0052,20-Aug-19,Platte Kill,Dunraven,New York,USA,42.13247,-74.69548
+WHONDRS_S19S,S19S_0053,25-Aug-19,Farmington,Simsbury,Connecticut,USA,41.869583,-72.796767
+WHONDRS_S19S,S19S_0054,5-Aug-19,Pamunkey River,New Kent,Virginia,USA,37.5728,-77.02396
+WHONDRS_S19S,S19S_0055,5-Aug-19,South Fork Polouse,Pullman,Washington,USA,46.7322206,-117.180384
+WHONDRS_S19S,S19S_0056,11-Aug-19,Nakdong,Busan,Not_Provided,South Korea,35.1634,128.9646
+WHONDRS_S19S,S19S_0057,29-Aug-19,Tims Branch,Aiken,South Carolina,USA,33.337716,-81.718159
+WHONDRS_S19S,S19S_0058,18-Aug-19,Jordan River,Gesher Arik,Not_Provided,Israel,32.899396,35.61366095
+WHONDRS_S19S,S19S_0059,12-Aug-19,Heel Creek tributary,Deer Valley,Washington,USA,48.16859001,-117.3903992
+WHONDRS_S19S,S19S_0060,19-Aug-19,Yakima River,Benton City,Washington,USA,46.2530248,-119.4772256
+WHONDRS_S19S,S19S_0061,12-Aug-19,Black Earth Creek,Cross Plains,Wisconsin,USA,43.1091,-89.6403
+WHONDRS_S19S,S19S_0062,13-Aug-19,Gunnison River,Gunnison,Colorado,USA,38.544778,-106.950056
+WHONDRS_S19S,S19S_0063,12-Aug-19,Lower Colorado ,Austin ,Texas,USA ,30.250278,-97.709566
+WHONDRS_S19S,S19S_0064,12-Aug-19,Shavers Creek,Petersburg,Pennsylvania,USA,40.61507,-78.00688
+WHONDRS_S19S,S19S_0065,2-Sep-19,Russian River,Guerneville,California,USA,38.509635,-122.8834
+WHONDRS_S19S,S19S_0066,18-Aug-19,Rio Grande,Albuquerque,New Mexico,USA,35.198601,-106.643074
+WHONDRS_S19S,S19S_0067,12-Aug-19,Augusta Creek,Hickory Corners,Michigan,USA,42.39193,-85.35402
+WHONDRS_S19S,S19S_0068,12-Aug-19,Watershed 01 stream,Blue River,Oregon,USA,44.207269,-122.257915
+WHONDRS_S19S,S19S_0069,12-Aug-19,North Fork Caspar Creek ,Ft. Bragg,California,USA,39.362343,-123.734848
+WHONDRS_S19S,S19S_0070,12-Aug-19,South Fork Caspar Creek ,Ft. Bragg,California,USA,39.339682,-123.752011
+WHONDRS_S19S,S19S_0071,12-Aug-19,Gordon Creek,Nederland,Colorado,USA,40.0129961,-105.4588818
+WHONDRS_S19S,S19S_0072,12-Aug-19,Sawmill Brook,Burlington,Massachusettes,USA,42.5233858,-71.1854501
+WHONDRS_S19S,S19S_0073,12-Aug-19,Cart Creek,Newbury,Massachusettes,USA,42.7696832,-70.9168932
+WHONDRS_S19S,S19S_0074,5-Aug-19,Columbia,Richland,Washington,USA,46.376327,-119.272955
+WHONDRS_S19S,S19S_0075,6-Aug-19,Columbia,Richland,Washington,USA,46.694858,-119.465706
+WHONDRS_S19S,S19S_0076,6-Aug-19,Columbia River,Richland,Washington,USA,46.679398,-119.462645
+WHONDRS_S19S,S19S_0077,18-Aug-19,Cache La Poudre,Fort Collins,Colorado,USA,40.664703,-105.224786
+WHONDRS_S19S,S19S_0078,6-Sep-19,Little Wolf Creek,Tyee,Oregon,USA,43.43138889,-123.5855556
+WHONDRS_S19S,S19S_0079,6-Sep-19,Umpqua,Elkton,Oregon,USA,43.6367,-123.5719
+WHONDRS_S19S,S19S_0080,20-Aug-19,Rio Grande,South Valley,New Mexico,USA,34.950903,-106.681382
+WHONDRS_S19S,S19S_0081,19-Aug-19,Northeast Branch of Anacostia,Riverdale,Maryland,USA,38.9603293,-76.9259674
+WHONDRS_S19S,S19S_0082,19-Aug-19,Muddy Creek,Edgewater,Maryland,USA,38.8749661,-76.5464942
+WHONDRS_S19S,S19S_0083,19-Aug-19,Sangamon,Fisher,Illinois,USA,40.31083,-88.3227
+WHONDRS_S19S,S19S_0084,19-Aug-19,Watershed 3 stream,North Woodstock,New Hampshire,USA,43.954722,-71.722778
+WHONDRS_S19S,S19S_0085,19-Aug-19,Mores Creek,Idaho City,Idaho,USA,43.64819,-115.98891
+WHONDRS_S19S,S19S_0086,19-Aug-19,Red Butte Creek,Salt Lake City,Utah,USA,40.7801,-111.8054
+WHONDRS_S19S,S19S_0087,21-Aug-19,Dobson Creek,Boise,Idaho,USA,43.1231912,-116.7745057
+WHONDRS_S19S,S19S_0089,26-Aug-19,Stroubles Creek,Blacksburg,Virginia,USA,37.21014,-80.44513
+WHONDRS_S19S,S19S_0090,17-Aug-19,Cobb Mill Creek,Oyster,Virginia,USA,37.291396,-75.930807
+WHONDRS_S19S,S19S_0091,25-Aug-19,Copper River,Cordova,Alaska,USA,60.520913,-144.837484
+WHONDRS_S19S,S19S_0092,3-Sep-19,Blythe,Birmingham,Not_Provided,UK,52.419804,-1.704362
+WHONDRS_S19S,S19S_0093,19-Aug-19,Wood Brook,Stafford,Not_Provided,UK,52.800667,-2.304694
+WHONDRS_S19S,S19S_0094,19-Aug-19,Icacos,Naguabo,Puerto Rico,USA,18.275889,-65.7853037
+WHONDRS_S19S,S19S_0096,3-Sep-19,Orco ,San Benigno Canavese,Not_Provided,Italy,45.24768,7.8043267
+WHONDRS_S19S,S19S_0097,18-Aug-19,Logan,Logan,Utah,USA,41.720744,-111.88642
+WHONDRS_S19S,S19S_0098,18-Aug-19,Logan,Logan,Utah,USA,41.950373,-111.580465
+WHONDRS_S19S,S19S_0099,19-Aug-19,Great Miami,Cincinnati,Ohio,USA,39.2386771,-84.7123967
+WHONDRS_S19S,S19S_0100,20-Aug-19,East River,Crested Butte,Colorado,USA,38.922389,-106.95145
